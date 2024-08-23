@@ -20,7 +20,6 @@ public class UserRegistrationRequest {
         this.name = name;
     }
 
-
     public Integer getId() {
         return id;
     }
